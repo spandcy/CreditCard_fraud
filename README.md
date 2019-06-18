@@ -4,6 +4,7 @@
 ## For **reproduce**:
 - Data file need to be download from kaggle
 - Output file contain the F1 Score of the project
+
 ![image](output/Output F1 score.jpg)
 
 ## Overview
