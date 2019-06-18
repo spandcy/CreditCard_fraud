@@ -1,2 +1,2 @@
 # CreditCard_fraud
-Project from Kaggle, feature pre-scaled data from Europ credit card transaction
+The best result is Random Forest with 1000 tree, F1 score is about 0.85
