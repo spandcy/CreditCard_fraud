@@ -1,2 +1,3 @@
 # CreditCard_fraud
-Project from Kaggle, feature pre-scaled data from Europ credit card transaction
+Datasets bigger than 100MB, can be download from the Kaggle website
+https://www.kaggle.com/mlg-ulb/creditcardfraud#creditcard.csv
